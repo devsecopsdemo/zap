@@ -12,4 +12,4 @@ EXPOSE 5050
  
 ENTRYPOINT ["python"]
  
-CMD ["vulnapp.py"]
+CMD ["app.py"]
